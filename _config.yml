@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Evan H. Wood
 subtitle:
 description:
-author: John Doe
-email:
+author: Evan Wood
+email: eavnhsiwood@gmail.com
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://eavnhsiwood.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -86,3 +86,7 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+		
+# Custom
+
+post_asset_folder: true
